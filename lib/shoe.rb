@@ -8,3 +8,4 @@ class Shoe
     puts "Shoe has been repaired!"
     @condition = "new"
 end
+end
